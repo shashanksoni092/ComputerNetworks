@@ -17,7 +17,7 @@ public class CRC {
 		System.out.println("Enter the size of dataword");
 		int dataword_size=sc.nextInt();
 		
-		System.out.println("Enter the dataword");
+		System.out.println("Enter the dataword ");
 		Dataword=new int[dataword_size];
 		for(int i=0;i<dataword_size;i++)
 		{
